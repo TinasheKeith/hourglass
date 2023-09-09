@@ -165,3 +165,5 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
 # hourglass
 [31mWrong: Mutiple Parameters!!
 [0m
+[31mWrong: Mutiple Parameters!!
+[0m
